@@ -1,6 +1,28 @@
-.vvv{
-    font-family: Algerian, "Algerian"
+h1{
+	color: #6A1B9A;
 }
-.svz{
-	font-family: Curlz MT, "Curlz MT"
+.vvv
+{
+    font-family: Algerian, "Algerian";
+}
+.svz
+{
+	font-family: Curlz MT, "Curlz MT";
+	text-align: center;
+}
+ul
+{
+  color: #1A237E;
+  font-size: 15pt;
+  list-style-position: center;
+}
+a.linkto
+{
+	color: #33691E;
+	font-family: bold;
+	font-size: 19pt;
+}
+p{
+	font-size: 16pt;
+	color: #311B92;
 }
